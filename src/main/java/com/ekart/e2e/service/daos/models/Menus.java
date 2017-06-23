@@ -1,4 +1,4 @@
-package com.my.db;
+package com.ekart.e2e.service.daos.models;
 
 public class Menus {
   private Long menuid;
